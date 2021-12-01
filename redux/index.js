@@ -1,7 +1,8 @@
 import { combineReducers } from "redux";
+import user from "./user";
 
 const rootReducer = combineReducers({
-
+    user
 });
 
 // reducer는 export default 해야된다는데 why??
