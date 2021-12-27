@@ -2,12 +2,16 @@
 .env.production
 .env.staging
 .env.*
+.env
 
 # firebase
 google-services.json
 GoogleService-Info.plist
 GoogleService-Info-dev.plist
 
+# code push
+appcenter-config.json
+AppCenter-Config.plist
 
 # OSX
 #
